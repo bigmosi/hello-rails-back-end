@@ -1,61 +1,72 @@
-# Rails and React Hello world project
+# Hello Rails Backend
 
-> Implement a connection between a Ruby on Rails back-end and React front-end - Two apps way.
+> Hello Rails Backend is a simple rails app. In this app, I create a React front-end with a Rails back-end and connect them to display a random message.
+
+
+# Link to the front end
+
+- [Hello React front end](https://github.com/aboongm/hello-react-frontend/pull/1)
+
 
 ## Built With
 
-![](https://img.shields.io/badge/Github-blueviolet)
-![](https://img.shields.io/badge/Ruby_On_Rails-red)
-![](https://img.shields.io/badge/React-red)
+- Ruby
+- Rails
+- PostgreSQL
 
 
-### Install & Setup
+## Getting Started
 
-To setup and install this sample ROR Blog project, follow the below steps:
-- Clone this project by the command: 
-
-```
-$ git clone https://github.com/bigmosi/hello-rails-back-end
-```
-
-- Then switch to the project folder by the bellow query:
-
-```
-$ cd hello-rails-back-end
-```
-
-- Install the required dependecies with `bundle install`
-- **Before running below commands update [config/database.yml](./config/database.yml) with your local `DB`credentials. Then run:**
-      - **`rake db:create`**
-      - **`rake db:migrate`**
-- With Ruby on Rails and PostgreSQL installed in your environment, you can run `rails server` to run the website.
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- IDE to edit and run the code (We use Visual Studio Code 🔥).
-- Git to versionning your work.
+- A source-code editor (preferably Visual Studio Code)
+
+### Install
+
+- Ruby
+- Rails
 - PostgreSQL
 
-## Author
+### Using it Locally
 
-👤 **Kinyera Amos**
+- Clone the project
 
-- GitHub: [](https://github.com/bigmosi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kinyera-amos/)
+git clone https://github.com/aboongm/hello-rails-backend.git
 
-## Links
+cd hello-rails-backend
 
-[React app (front-end)](https://github.com/bigmosi/hello-rails-front-end)
+- To Start the programs
+
+open terminal
+run the command $irb (interactive ruby shell)
+run the program functions
+
+
+## Authors
+
+👤 **Ranjit Luwang**
+
+- GitHub: [@aboongm](https://github.com/aboongm)
+- Twitter: [@John_luang1](https://twitter.com/John_luang1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aboongm)
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/bigmosi/hello-rails-back-end/issues).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Microverse 
+
 ## 📝 License
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE) licensed.
