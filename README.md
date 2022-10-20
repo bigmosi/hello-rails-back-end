@@ -5,7 +5,7 @@
 
 # Link to the front end
 
-- [Hello React front end](https://github.com/aboongm/hello-react-frontend/pull/1)
+- [Hello React front end](https://github.com/bigmosi/hello-react-front-end/pull/1)
 
 
 ## Built With
@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 - Clone the project
 
-git clone https://github.com/aboongm/hello-rails-backend.git
+git clone https://github.com/bigmosi/hello-rails-backend.git
 
 cd hello-rails-backend
 
@@ -46,11 +46,11 @@ run the program functions
 
 ## Authors
 
-👤 **Ranjit Luwang**
+👤 **Kinyera Amos**
 
-- GitHub: [@aboongm](https://github.com/aboongm)
-- Twitter: [@John_luang1](https://twitter.com/John_luang1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aboongm)
+- GitHub: [@bigmosi](https://github.com/aboongm)
+- Twitter: [@bigmosi](https://twitter.com/kinyera_amos)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bigmosi)
 
 
 ## 🤝 Contributing
